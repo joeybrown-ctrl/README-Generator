@@ -1,9 +1,11 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  const licenseArray = data.license.split(" ");
+  
   return `
   # ${data.title}
 
-  ![license](https://img.shields.io/badge/License-${data.license}-blue.svg)
+  ![license](https://img.shields.io/badge/License-${licenseArray[0]}-blue.svg)
 
   ## Table of Contents
 
@@ -18,31 +20,22 @@ function generateMarkdown(data) {
   \n<hr>
 
   ## Description \n${data.description}
-
   ## Installation \n${data.installation}
-
   ## Usage \n${data.usage}
-
   ## Contributing \n${data.contributing}
-
   ## Tests \n${data.tests}
-
   ## Questions 
   \n* [email](#${data.email})
   \n* [github](#${data.github})
 
   \n<hr>
-
   ## Licence \n${getLicenseText(data.license, data.github)}
-
-
 `;
 
 
 }
 
-// create logic for license choices:
-
+// logic for license choices:
 function getLicenseText(license, name) {
   if (license === "MIT License") {
     //MIT license text
@@ -259,7 +252,7 @@ file or class name and description of purpose be included on the
 same "printed page" as the copyright notice for easier
 identification within third-party archives.
 
-Copyright [yyyy] [name of copyright owner]
+Copyright (c) ${new Date().getFullYear()} ${name}
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -929,7 +922,7 @@ Also add information on how to contact you by electronic and paper mail.
 If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-<program>  Copyright (C) <year>  <name of author>
+Copyright (c) ${new Date().getFullYear()} ${name}
 This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.
 This is free software, and you are welcome to redistribute it
 under certain conditions; type 'show c' for details.

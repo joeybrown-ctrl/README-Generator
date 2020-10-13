@@ -1,6 +1,6 @@
 # ReadMe-Generator
 
-  ![license](https://img.shields.io/badge/License-MIT License-blue.svg)
+  ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Table of Contents
 
