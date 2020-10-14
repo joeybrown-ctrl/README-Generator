@@ -1,5 +1,5 @@
 
-  # kldjsflj
+  # meow
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -24,27 +24,27 @@
 <hr>
 
   ## Description 
-lkjdf
+meow
   ## Installation 
-;ljdf
+meow loudly
   ## Usage 
-lkjdsf
+meow softly
   ## Contributing 
-lkjdf
+meow and other meow
   ## Tests 
-ljdf
+meow all night looooong
   ## Questions 
   
-* [Send me an email](mailto:ljdf.com)
+* [Send me an email](mailto:gjoey.brown@gmail.com.com)
   
-* [Reach out to me on Github](https://github.com/ljdf)
+* [Reach out to me on Github](https://github.com/joeybrown-ctrl)
 
   
 <hr>
   ## Licence 
 MIT License
 
-Copyright (c) 2020 ljdf
+Copyright (c) 2020 joeybrown-ctrl
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
