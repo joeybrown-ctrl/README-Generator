@@ -25,7 +25,7 @@
 <hr>
 
   ## Description 
-A command-line application where a readme.md file is created once the user enters the title, description, installation and usage instructions, license, test, contributors, and github and email information into the app. 
+A command-line application where a readme.md file is created once the user enters the title, description, installation and usage instructions, license, test, contributors, and github and email information into the app. Built using Node.js, Visual Studio Code and the Inquirer package from NPM.
 
   ## Installation 
 Clone to local repository.
@@ -33,15 +33,11 @@ Clone to local repository.
   ## Usage 
 Node.js, and a code-editor such as Visual Studio Code are required.
 
-  ## Contributing 
-Just me!
-
-
   ## Questions 
   
-* [Email](#gjoey.brown@gmail.com)
+* [Send me an email](mailto:gjoey.brown@gmail.com)
   
-* [Github](#github.com/joeybrown-ctrl)
+* [Reach out to me on Github](https://github.com/joeybrown-ctrl)
 
   
 <hr>

@@ -1,5 +1,5 @@
 
-  # ReadMe-Generator
+  # lksidfjsdjf
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -24,20 +24,20 @@
 <hr>
 
   ## Description 
-A command-line application that allows the user to create a readme file.
+lkdjfjksdf
   ## Installation 
-git clone to local device
+ljdfljsdf
   ## Usage 
-A code editor such as Visual Studio Code will be helpful, as well as Node.js
+lkdjflksjf
   ## Contributing 
-Just me!
+kdfhljkhsdf
   ## Tests 
-none
+lkdfljsd
   ## Questions 
   
-* [Email](#gjoey.brown@gmail.com)
+* [Send me an email](mailto:gjoey.brown@gmail.com.com)
   
-* [Github](#joeybrown-ctrl)
+* [Reach out to me on Github](https://github.com/joeybrown-ctrl)
 
   
 <hr>
