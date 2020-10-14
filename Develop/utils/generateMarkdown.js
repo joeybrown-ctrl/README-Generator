@@ -1,7 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   const licenseArray = data.license.split(" ");
-  
+
   return `
   # ${data.title}
 
@@ -12,7 +12,7 @@ function generateMarkdown(data) {
   \n* [Description](#description)
   \n* [Installation](#installation) 
   \n* [Usage](#usage) 
-  \n* [License](#license) 
+  \n* [License](#license)
   \n* [Contributing](#contributing)
   \n* [Tests](#tests) 
   \n* [Questions](#questions)
@@ -31,8 +31,6 @@ function generateMarkdown(data) {
   \n<hr>
   ## Licence \n${getLicenseText(data.license, data.github)}
 `;
-
-
 }
 
 // logic for license choices:

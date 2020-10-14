@@ -1,4 +1,4 @@
-//global variables and links to 
+// global variables and links to packages and other files
 const fs = require("fs");
 const inquirer = require("inquirer");
 const util = require("util");
