@@ -13,7 +13,7 @@ function generateMarkdown(data) {
   \n* [Installation](#installation) 
   \n* [Usage](#usage) 
   \n* [License](#license) 
-  \n* [Contribution](#contribution)
+  \n* [Contributing](#contributing)
   \n* [Tests](#tests) 
   \n* [Questions](#questions)
 
