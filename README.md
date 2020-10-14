@@ -26,15 +26,13 @@
 A command-line application where a readme.md file is created once the user enters the title, description, installation and usage instructions, license, test, contributors, and github and email information into the app. 
 
   ## Installation 
-node.js, and a code-editor such as Visual Studio Code are required.
+Clone to local repository.
 
   ## Usage 
-
+Node.js, and a code-editor such as Visual Studio Code are required.
 
   ## Contributing 
 Just me!
-
-  ## Tests 
 
 
   ## Questions 

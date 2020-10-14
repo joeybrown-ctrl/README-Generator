@@ -25,8 +25,8 @@ function generateMarkdown(data) {
   ## Contributing \n${data.contributing}
   ## Tests \n${data.tests}
   ## Questions 
-  \n* [email](#${data.email})
-  \n* [github](#${data.github})
+  \n* [Email](#${data.email})
+  \n* [Github](#${data.github})
 
   \n<hr>
   ## Licence \n${getLicenseText(data.license, data.github)}
