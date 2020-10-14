@@ -2,6 +2,8 @@
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
+  ![example-gif](./ReadMe-Generator)
+
   ## Table of Contents
 
   
