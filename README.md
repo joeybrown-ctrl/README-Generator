@@ -2,7 +2,7 @@
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  ![example-gif](./ReadMe-Generator)
+  ![example-gif](https://github.com/joeybrown-ctrl/ReadMe-Generator/blob/main/Assets/ReadMe-Generator.gif)
 
   ## Table of Contents
 
