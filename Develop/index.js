@@ -67,7 +67,7 @@ async function init() {
 
         await writeFileAsync("readme.md", markdown, "utf-8");
 
-        console.log("Successfully wrote to generateMarkdown.js");
+        console.log("Successfully wrote to readme.md file!");
     } catch (err) {
         console.log(err);
     }

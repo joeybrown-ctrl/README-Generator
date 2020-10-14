@@ -1,5 +1,5 @@
 
-  # lksidfjsdjf
+  # meow
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -24,15 +24,15 @@
 <hr>
 
   ## Description 
-lkdjfjksdf
+meow
   ## Installation 
-ljdfljsdf
+meow loudly
   ## Usage 
-lkdjflksjf
+meow softly
   ## Contributing 
-kdfhljkhsdf
+cat and other cat
   ## Tests 
-lkdfljsd
+meowing at different volumes
   ## Questions 
   
 * [Send me an email](mailto:gjoey.brown@gmail.com.com)
