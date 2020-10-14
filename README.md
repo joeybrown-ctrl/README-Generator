@@ -39,9 +39,9 @@ Just me!
 
   ## Questions 
   
-* [email](#gjoey.brown@gmail.com)
+* [Email](#gjoey.brown@gmail.com)
   
-* [github](#github.com/joeybrown-ctrl)
+* [Github](#github.com/joeybrown-ctrl)
 
   
 <hr>
