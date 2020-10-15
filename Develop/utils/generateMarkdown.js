@@ -29,7 +29,8 @@ function generateMarkdown(data) {
   \n* [Reach out to me on Github](https://github.com/${data.github})
 
   \n<hr>
-  ## Licence \n${getLicenseText(data.license, data.github)}
+
+  \n## Licence \n${getLicenseText(data.license, data.github)}
 `;
 }
 

@@ -35,7 +35,6 @@ Node.js, and a code-editor such as Visual Studio Code are required.
   
 * [Reach out to me on Github](https://github.com/joeybrown-ctrl)
 
-  
 <hr>
 
   ## Licence 
