@@ -1,7 +1,8 @@
-
-  # lkjdfds
+# ReadMe-Generator
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+
+  ![example-gif](https://github.com/joeybrown-ctrl/ReadMe-Generator/blob/main/Assets/readmegif.gif)
 
   ## Table of Contents
 
@@ -12,11 +13,7 @@
   
 * [Usage](#usage) 
   
-* [License](#license)
-  
-* [Contributing](#contributing)
-  
-* [Tests](#tests) 
+* [License](#license) 
   
 * [Questions](#questions)
 
@@ -24,29 +21,26 @@
 <hr>
 
   ## Description 
-lkdjf
+A command-line application where a readme.md file is created once the user enters the title, description, installation and usage instructions, license, test, contributors, and github and email information into the app. Built using Node.js, Visual Studio Code and the Inquirer package from NPM.
+
   ## Installation 
-lkdjf
+Clone to local repository.
+
   ## Usage 
-kdjf
-  ## Contributing 
-klsjdflkj
-  ## Tests 
-lsdjfj
+Node.js, and a code-editor such as Visual Studio Code are required.
+
   ## Questions 
   
-* [Send me an email](mailto:lldjf.com)
+* [Send me an email](mailto:gjoey.brown@gmail.com)
   
-* [Reach out to me on Github](https://github.com/lsdjf)
+* [Reach out to me on Github](https://github.com/joeybrown-ctrl)
 
-  
 <hr>
 
-  
-## Licence 
+  ## Licence 
 MIT License
 
-Copyright (c) 2020 lsdjf
+Copyright (c) 2020 github.com/joeybrown-ctrl
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,8 +1,7 @@
-# ReadMe-Generator
+
+  # Team Profile Generator
 
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
-
-  ![example-gif](https://github.com/joeybrown-ctrl/ReadMe-Generator/blob/main/Assets/readmegif.gif)
 
   ## Table of Contents
 
@@ -13,7 +12,11 @@
   
 * [Usage](#usage) 
   
-* [License](#license) 
+* [License](#license)
+  
+* [Contributing](#contributing)
+  
+* [Tests](#tests) 
   
 * [Questions](#questions)
 
@@ -21,23 +24,26 @@
 <hr>
 
   ## Description 
-A command-line application where a readme.md file is created once the user enters the title, description, installation and usage instructions, license, test, contributors, and github and email information into the app. Built using Node.js, Visual Studio Code and the Inquirer package from NPM.
-
+A Node CLI that generates an HTML page with employee profiles. Utilizes NPM's Inquirer package to ask the user whether the employee they are inputting is a manager, engineer or intern -- and what the employee's name, ID, and email are -- with additional role specific questions as well.
   ## Installation 
-Clone to local repository.
-
+Git clone to local repository.
   ## Usage 
-Node.js, and a code-editor such as Visual Studio Code are required.
+Node.js and a code editor such as Visual Studio Code are necessary for usage.
+  ## Contributing 
+Just me!
+  ## Tests 
 
   ## Questions 
   
-* [Send me an email](mailto:gjoey.brown@gmail.com)
+* [Send me an email](mailto:gjoey.brown@gmail.com.com)
   
-* [Reach out to me on Github](https://github.com/joeybrown-ctrl)
+* [Reach out to me on Github](https://github.com/github.com/joeybrown-ctrl)
 
+  
 <hr>
 
-  ## Licence 
+  
+## Licence 
 MIT License
 
 Copyright (c) 2020 github.com/joeybrown-ctrl
